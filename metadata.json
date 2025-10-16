@@ -1,0 +1,7 @@
+{
+  "name": "Fibonacci Face Analyzer",
+  "description": "An AI-powered web app that analyzes facial proportions using the Fibonacci Golden Ratio to measure aesthetic balance and symmetry. Users upload a photo, and the AI provides a score, detailed feedback, and a visual overlay of the analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
